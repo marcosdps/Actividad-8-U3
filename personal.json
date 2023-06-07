@@ -1,0 +1,146 @@
+[
+    {
+        "__class__": "Docente",
+        "__atributos__": {
+            "cuil": "25-37741502-8",
+            "apellido": "Perez",
+            "nombre": "Marcos",
+            "sueldoBasico": 150000.0,
+            "antiguedad": 2,
+            "carreraDicta": "Programacion",
+            "cargo": "Exclusivo",
+            "catedra": "LCC"
+        }
+    },
+    {
+        "__class__": "Investigador",
+        "__atributos__": {
+            "cuil": "25-54321678-9",
+            "apellido": "Martinez",
+            "nombre": "Ana",
+            "sueldoBasico": 68000.0,
+            "antiguedad": 4,
+            "areaInvestigacion": "Fisica",
+            "tipoDeInvestigacion": "Basica"
+        }
+    },
+    {
+        "__class__": "Docente",
+        "__atributos__": {
+            "cuil": "27-12345678-0",
+            "apellido": "Lopez",
+            "nombre": "Fernanda",
+            "sueldoBasico": 55000.0,
+            "antiguedad": 2,
+            "carreraDicta": "Historia",
+            "cargo": "Exclusivo",
+            "catedra": "Historia Antigua"
+        }
+    },
+    {
+        "__class__": "DocenteInvestigador",
+        "__atributos__": {
+            "cuil": "23-76543210-1",
+            "apellido": "Diaz",
+            "nombre": "Mariana",
+            "sueldoBasico": 90000.0,
+            "antiguedad": 5,
+            "carreraDicta": "Medicina",
+            "cargo": "Simple",
+            "catedra": "Fisica II",
+            "areaInvestigacion": "Fisica",
+            "tipoDeInvestigacion": "Clinica",
+            "categoriaProgramaIncentivos": "I",
+            "importeExtra": 15000.0
+        }
+    },
+    {
+        "__class__": "PersonalApoyo",
+        "__atributos__": {
+            "cuil": "20-23456789-4",
+            "apellido": "Fernandez",
+            "nombre": "Laura",
+            "sueldoBasico": 42000.0,
+            "antiguedad": 3,
+            "categoria": 17
+        }
+    },
+    {
+        "__class__": "Investigador",
+        "__atributos__": {
+            "cuil": "25-54321098-5",
+            "apellido": "Lopez",
+            "nombre": "Carlos",
+            "sueldoBasico": 75000.0,
+            "antiguedad": 8,
+            "areaInvestigacion": "Fisica",
+            "tipoDeInvestigacion": "Experimental"
+        }
+    },
+    {
+        "__class__": "Docente",
+        "__atributos__": {
+            "cuil": "27-76543210-8",
+            "apellido": "Gomez",
+            "nombre": "Jorge",
+            "sueldoBasico": 65000.0,
+            "antiguedad": 1,
+            "carreraDicta": "Derecho",
+            "cargo": "Semiexclusivo",
+            "catedra": "Derecho Romano"
+        }
+    },
+    {
+        "__class__": "DocenteInvestigador",
+        "__atributos__": {
+            "cuil": "23-01234567-3",
+            "apellido": "Sanchez",
+            "nombre": "Roberto",
+            "sueldoBasico": 80000.0,
+            "antiguedad": 4,
+            "carreraDicta": "Economia",
+            "cargo": "Exclusivo",
+            "catedra": "Macroeconomia",
+            "areaInvestigacion": "Economia Internacional",
+            "tipoDeInvestigacion": "Basica",
+            "categoriaProgramaIncentivos": "IV",
+            "importeExtra": 12000.0
+        }
+    },
+    {
+        "__class__": "PersonalApoyo",
+        "__atributos__": {
+            "cuil": "20-34567890-6",
+            "apellido": "Gonzalez",
+            "nombre": "Lucia",
+            "sueldoBasico": 40000.0,
+            "antiguedad": 2,
+            "categoria": 9
+        }
+    },
+    {
+        "__class__": "Investigador",
+        "__atributos__": {
+            "cuil": "25-98765432-2",
+            "apellido": "Rodriguez",
+            "nombre": "Luis",
+            "sueldoBasico": 70000.0,
+            "antiguedad": 6,
+            "areaInvestigacion": "Inteligencia Artificial",
+            "tipoDeInvestigacion": "Aplicada"
+        }
+    },
+    {
+        "__class__": "Docente",
+        "__atributos__": {
+            "cuil": "27-87654321-9",
+            "apellido": "Perez",
+            "nombre": "Maria",
+            "sueldoBasico": 60000.0,
+            "antiguedad": 3,
+            "carreraDicta": "Ingenieria",
+            "cargo": "Simple",
+            "catedra": "Programacion Avanzada"
+        }
+    }
+]
